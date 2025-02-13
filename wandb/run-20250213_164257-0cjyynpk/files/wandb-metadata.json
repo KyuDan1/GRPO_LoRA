@@ -1,0 +1,41 @@
+{
+  "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python": "CPython 3.12.2",
+  "startedAt": "2025-02-13T07:42:58.043285Z",
+  "program": "/home/kyudan/GRPO_LoRA/experiments.ipynb",
+  "codePath": "experiments.ipynb",
+  "git": {
+    "remote": "https://github.com/KyuDan1/GRPO_LoRA.git",
+    "commit": "e9b81359b7edf7bd4ff9fccea5bf47d7d5008f93"
+  },
+  "email": "wjdrbeks1021@naver.com",
+  "root": "/home/kyudan/GRPO_LoRA",
+  "host": "kyudan",
+  "executable": "/home/kyudan/anaconda3/envs/py3.12/bin/python",
+  "codePathLocal": "experiments.ipynb",
+  "cpu_count": 14,
+  "cpu_count_logical": 28,
+  "gpu": "NVIDIA GeForce RTX 4070",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "310076768256"
+    }
+  },
+  "memory": {
+    "total": "15530106880"
+  },
+  "cpu": {
+    "count": 14,
+    "countLogical": 28
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4070",
+      "memoryTotal": "12878610432",
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.6"
+}
